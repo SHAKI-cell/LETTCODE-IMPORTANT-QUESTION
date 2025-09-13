@@ -5,11 +5,7 @@ It is meant for **DSA practice** and **interview preparation**.
 
 ---
 
-## 📂 Repository Structure
-- Each `.cpp` file contains the solution to one LeetCode problem.
-- Example: `contigoussubarray.cpp`
 
----
 
 ## 🚀 How to Run
 1. Clone this repository:
